@@ -1,0 +1,16 @@
+.nodee{
+    
+  width: 25px;
+  height: 25px;
+  outline: 1px solid black;
+  display: inline-block;
+
+}
+.nodee-finish{
+  background-color: brown;
+
+}
+.nodee-start{
+  background-color: green;
+
+}

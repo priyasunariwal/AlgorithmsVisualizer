@@ -1,0 +1,23 @@
+.contain{
+    /* display: flex;
+    justify-content: center;
+    align-self: center; */
+    position: absolute;
+  
+}
+.mainy{
+    margin: 50px;
+}
+
+.btn{
+    margin: 30px;
+}
+.arr-b{
+    font-size: 9px;
+    width: 8px;
+    display: inline-block;
+    margin: 0 3px;
+    background-color: rgb(164, 209, 233);
+    top: 100px;
+    
+}
